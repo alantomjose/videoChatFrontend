@@ -10,7 +10,7 @@ export default function Home() {
           Video Chat App
         </h1>
         <a
-          href="https://jitsi.org/"
+          href="https://live.afilive.com/"
           className={`text-4xl bg-orange-200 inline uppercase px-10 py-5 rounded-lg cursor-pointer 
         font-bold shadow-xl  mt-20`}
         >
